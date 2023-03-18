@@ -1,2 +1,23 @@
-# Software Engineering Project - Phase 1
+# Software Engineering Project 1401-02 - Phase 1
+
+
+**ساجده مرادی**
+
+
+***
+
+**فاطمه تاج**
+
+
+***
+
+**محمد حسین رحیمی**
+
+
+***
+
+**علی تاجیک**
+
+
+***
 
