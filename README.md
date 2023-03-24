@@ -6,6 +6,7 @@
 sign up
 
 Log in
+forgot password 
 
 ***
 
