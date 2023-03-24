@@ -2,23 +2,34 @@
 
 
 **ساجده مرادی**
-  launch screen
+
+Log in
+
+Sign up
+
+Forgot password 
+
+Launch screen
 
 ***
 
 **فاطمه تاج**
 
+Notifications
+
+Connections
 
 ***
 
 **محمد حسین رحیمی**
 
+Profile
 
 ***
 
 **علی تاجیک**
 
-گروه ها
+Groups
 
 ***
 
