@@ -31,5 +31,7 @@ Profile
 
 Groups
 
+Video
+
 ***
 
