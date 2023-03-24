@@ -2,14 +2,16 @@
 
 
 **ساجده مرادی**
-  log in
+
+Log in
 
 ***
 
 **فاطمه تاج**
 
-  notification
-  Connections
+Notifications
+
+Connections
 
 ***
 
@@ -20,7 +22,7 @@
 
 **علی تاجیک**
 
-گروه ها
+Groups
 
 ***
 
