@@ -3,10 +3,13 @@
 
 **ساجده مرادی**
 
-sign up
-
 Log in
-forgot password 
+
+Sign up
+
+Forgot password 
+
+Launch screen
 
 ***
 
@@ -20,6 +23,7 @@ Connections
 
 **محمد حسین رحیمی**
 
+Profile
 
 ***
 
