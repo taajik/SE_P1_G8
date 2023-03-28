@@ -33,5 +33,7 @@ Groups
 
 Video
 
+Channels
+
 ***
 
