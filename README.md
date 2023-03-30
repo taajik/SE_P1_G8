@@ -40,5 +40,7 @@ Video
 
 Channels
 
+Feed
+
 ***
 
