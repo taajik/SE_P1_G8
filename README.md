@@ -11,6 +11,8 @@ Forgot password
 
 Launch screen
 
+News
+
 ***
 
 **فاطمه تاج**
