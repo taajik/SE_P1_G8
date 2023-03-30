@@ -24,6 +24,9 @@ Connections
 **محمد حسین رحیمی**
 
 Profile
+Edit Profile
+Events
+Image Album
 
 ***
 
