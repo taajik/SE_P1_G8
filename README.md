@@ -11,6 +11,8 @@ Forgot password
 
 Launch screen
 
+Change password
+
 ***
 
 **فاطمه تاج**
