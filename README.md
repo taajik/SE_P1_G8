@@ -21,13 +21,20 @@ Notifications
 
 Connections
 
+Wall
+
+Poll
+
 ***
 
 **محمد حسین رحیمی**
 
 Profile
+
 Edit Profile
+
 Events
+
 Image Album
 
 ***
