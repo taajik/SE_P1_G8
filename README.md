@@ -11,6 +11,8 @@ Forgot password
 
 Launch screen
 
+Change password
+
 News
 
 ***
@@ -27,6 +29,12 @@ Connections
 
 Profile
 
+Edit Profile
+
+Events
+
+Image Album
+
 ***
 
 **علی تاجیک**
@@ -34,6 +42,8 @@ Profile
 Groups
 
 Video
+
+Channels
 
 ***
 
