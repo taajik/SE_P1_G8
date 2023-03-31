@@ -13,6 +13,8 @@ Launch screen
 
 Change password
 
+News
+
 ***
 
 **فاطمه تاج**
@@ -26,8 +28,11 @@ Connections
 **محمد حسین رحیمی**
 
 Profile
+
 Edit Profile
+
 Events
+
 Image Album
 
 ***
