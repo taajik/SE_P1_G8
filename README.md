@@ -13,6 +13,8 @@ Launch screen
 
 Change password
 
+News
+
 ***
 
 **فاطمه تاج**
